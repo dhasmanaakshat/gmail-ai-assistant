@@ -1,0 +1,22 @@
+# Google OAuth credentials — NEVER upload these
+credentials.json
+token.json
+
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Local databases and logs
+*.db
+*.sqlite3
+*.log
+
+# Editor settings
+.vscode/
